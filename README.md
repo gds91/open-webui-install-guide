@@ -1,6 +1,6 @@
 # Introduction
 This is a writeup on how to get Open WebUI and its additional features running on linux from scratch.  
-The aim is to cover provide an A-Z installation guide that takes into consideration any pain points that a user might have.
+The aim is to provide an A-Z installation guide that considers any pain points a user might experience.
 # Open WebUI
 ## Setup WSL (Windows)
 1) Install WSL and Ubuntu  
